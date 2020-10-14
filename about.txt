@@ -1,0 +1,1 @@
+This is a spring boot application aimed at tracking all the corona virus cases globally.
